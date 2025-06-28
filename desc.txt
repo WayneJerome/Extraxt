@@ -1,0 +1,13 @@
+1️⃣Projectile Motion Animation
+Equation:
+x(t)=v0⋅cos(θ)⋅ty(t)=v0⋅sin(θ)⋅t−½⋅g⋅t2
+x(t)=v0​⋅cos(θ)⋅ty(t)=v0​⋅sin(θ)⋅t−½⋅g⋅t2
+
+
+
+2️⃣ Simple Pendulum Oscillation
+Equation:
+θ(t)=θ0⋅cos(√(g/L)⋅t)
+θ(t)=θ0​⋅cos(√(g/L)⋅t)
+
+
